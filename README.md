@@ -4,7 +4,7 @@
 
 # E aí! Seja bem-vindo ao meu perfil 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Engenheiro+de+Software;Aprendendo+React+Native+%F0%9F%93%B1;Aprendendo+Golang+%F0%9F%90%B9;Criando+bugs+desde+2020+%F0%9F%90%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Bem-vindo!;Engenheiro+de+Software;Estudando+Certificações+AWS+☁️)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,7 @@
 - 💡 Meu nome é **Kaio**, trabalho como desenvolvedor de software
 - 🎓 Formado em **Engenharia de Software**
 - 🐛 Criando bugs desde **2020**
-- 📱 Atualmente aprendendo **React Native** e **Golang**
-- 🌍 Metas: dominar o ciclo Mobile, falar inglês fluentemente e viajar ao exterior
+- 📱 Atualmente estudando para **certificação AWS**
 - 🎮 Curiosidade: passei anos criando **scripts e mods para a série ARMA**
 
 ---
