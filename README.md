@@ -106,12 +106,6 @@ Consulte as [certificações no LinkedIn](https://www.linkedin.com/in/hpkaio/det
   <img width="100%" src="./metrics.plugin.achievements.compact.svg" alt="Conquistas no GitHub" />
 </div>
 
-## Além do código
-
-Minha história com programação também passa por jogos. Durante anos criei scripts e mods para a série ARMA, experiência que fortaleceu minha curiosidade por sistemas, automação e resolução de problemas.
-
-Minha fé cristã faz parte de quem sou e dos valores que levo para a vida e para o trabalho.
-
 ---
 
 <div align="center">
